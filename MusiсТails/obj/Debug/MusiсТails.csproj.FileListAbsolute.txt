@@ -1,0 +1,5 @@
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.csproj.AssemblyReference.cache
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.Properties.Resources.resources
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.csproj.GenerateResource.cache
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.csproj.CoreCompileInputs.cache
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.GameForm.resources

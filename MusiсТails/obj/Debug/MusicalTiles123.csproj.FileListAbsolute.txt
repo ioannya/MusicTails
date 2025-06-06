@@ -1,0 +1,9 @@
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusicalTiles123.csproj.AssemblyReference.cache
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.Properties.Resources.resources
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusicalTiles123.csproj.GenerateResource.cache
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusicalTiles123.csproj.CoreCompileInputs.cache
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\bin\Debug\MusiсТails.exe.config
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\bin\Debug\MusiсТails.exe
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\bin\Debug\MusiсТails.pdb
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.exe
+C:\Users\FREE\source\repos\MusiсТails\MusiсТails\obj\Debug\MusiсТails.pdb
